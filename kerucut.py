@@ -12,6 +12,6 @@ ls = PHI*r*s
 lp = (PHI*r*s)+(PHI*r**2)
 v = 1/3*PHI*r**2*t
 
-print('Luas selimut \t ',ls, ' cm')
-print('Luas permukaan \t ',lp)
-print('Volume \t ',v)
+print('Luas selimut \t: ',ls, ' cm')
+print('Luas permukaan \t: ',lp)
+print('Volume \t: ',v)

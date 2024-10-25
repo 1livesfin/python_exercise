@@ -7,4 +7,4 @@ t = float(input('Masukan tinggi\t :'))
 
 jg = a*t
 
-print('Luas jajar genjang',jg, ' cm')
+print('Luas jajar genjang:',jg, ' cm')
